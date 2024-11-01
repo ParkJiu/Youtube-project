@@ -1,0 +1,75 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "N4pcpWMhkLretbtUv9-iU_F7SFo",
+  "items": [
+      {
+          "kind": "youtube#video",
+          "etag": "4vkxpZoes8jWlQ9YGWVtNpbG5-Q",
+          "id": "60Iw6L9kxgU",
+          "snippet": {
+              "publishedAt": "2024-10-23T09:30:01Z",
+              "channelId": "UCLKuglhGlMmDteQKoniENIQ",
+              "title": "‘컴백이 아냐 떠난 적 없으니까’ 블랙핑크 솔로 활동도 전 세계적 대활약 펼쳤다 / 14F",
+              "description": "대한민국은 지금 아파트 열풍입니다. 로제의 새 솔로 디지털 싱글 '아파트(APT.)’가 발매 다음 날부터 현재까지 국내 음원 차트 1위를 휩쓸고 있는데요. 스포티파이 글로벌 차트와 미국 차트 1위도 기록하고 있어요. 블랙핑크의 다른 멤버들 역시 각자의 자리에서 활약하고 있는데요.\n\n#블랙핑크 #아파트 #솔로활동\n\n14F 모바일 앱의 new 사원이 되어주세요!\n\n14F 앱 다운로드하기\n안드로이드 👉 https://bit.ly/3LbOCeZ\niOS(아이폰) 👉 https://apple.co/3Lewotp",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/60Iw6L9kxgU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/60Iw6L9kxgU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/60Iw6L9kxgU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/60Iw6L9kxgU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/60Iw6L9kxgU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "14F 일사에프",
+              "tags": [
+                  "14f",
+                  "일사에프"
+              ],
+              "categoryId": "25",
+              "liveBroadcastContent": "none",
+              "localized": {
+                  "title": "‘컴백이 아냐 떠난 적 없으니까’ 블랙핑크 솔로 활동도 전 세계적 대활약 펼쳤다 / 14F",
+                  "description": "대한민국은 지금 아파트 열풍입니다. 로제의 새 솔로 디지털 싱글 '아파트(APT.)’가 발매 다음 날부터 현재까지 국내 음원 차트 1위를 휩쓸고 있는데요. 스포티파이 글로벌 차트와 미국 차트 1위도 기록하고 있어요. 블랙핑크의 다른 멤버들 역시 각자의 자리에서 활약하고 있는데요.\n\n#블랙핑크 #아파트 #솔로활동\n\n14F 모바일 앱의 new 사원이 되어주세요!\n\n14F 앱 다운로드하기\n안드로이드 👉 https://bit.ly/3LbOCeZ\niOS(아이폰) 👉 https://apple.co/3Lewotp"
+              },
+              "defaultAudioLanguage": "ko"
+          },
+          "contentDetails": {
+              "duration": "PT1M59S",
+              "dimension": "2d",
+              "definition": "hd",
+              "caption": "false",
+              "licensedContent": true,
+              "contentRating": {},
+              "projection": "rectangular"
+          },
+          "statistics": {
+              "viewCount": "59434",
+              "likeCount": "1023",
+              "favoriteCount": "0",
+              "commentCount": "168"
+          }
+      }
+  ],
+  "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 1
+  }
+}
